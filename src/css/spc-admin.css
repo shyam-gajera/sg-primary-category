@@ -1,0 +1,8 @@
+/**
+ * CSS for the admin
+ */
+
+#spc_primary_cat select {
+	width: 100%;
+	margin-top: 2px;
+}
